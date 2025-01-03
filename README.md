@@ -1,1 +1,1 @@
-# projeto_curso_js
+# projeto curso JAVASCRIPTS
